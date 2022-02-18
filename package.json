@@ -1,0 +1,16 @@
+{
+  "name": "cls",
+  "version": "1.0.0",
+  "description": "this is a developer team REST api for mobile and react developer",
+  "main": "app.js",
+  "scripts": {
+    "mizan": "json-server --watch db.json --port 5050"
+  },
+  "author": "mdmizanurrahman037",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {}
+}

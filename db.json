@@ -1,0 +1,124 @@
+{
+  
+ 
+
+  "Product"   :[
+    {
+      "id"      : 1,
+      "name"    : "T-shart",
+      "price"   : 160,
+      "photo"   : "hhttps://images-eu.ssl-images-amazon.com/images/I/41nvyksD5lL._AC._SR360,460.jpg"
+    },
+    {
+      "id"      : 2,
+      "name"    : "T-shart",
+      "price"   : 180,
+      "photo"   : "https://image.made-in-china.com/44f3j00aiYTGfhsIebl/Custom-T-Shirts-100-Cotton-Men-Tshirt-Tee-Shirt-Printing-T-Shirt-Polo-T-Shirt-for-Men-Women-Plain-T-Shirt.jpg"
+    },
+    {
+      "id"      : 3,
+      "name"    : "T-shart",
+      "price"   : 200,
+      "photo"   : "https://m.media-amazon.com/images/I/B1VMTBKtipS._CLa%7C2140%2C2000%7C61AWr5r7%2BNL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_SX679._SX._UX._SY._UY_.png"
+    },
+    {
+      "id"      : 4,
+      "name"    : "pant",
+      "price"   : 800,
+      "photo"   : "https://m.media-amazon.com/images/I/31FXxFtjlRL.jpg"
+    },
+    {
+      "id"      : 5,
+      "name"    : "Cot Sut",
+      "price"   : 1600,
+      "photo"   : "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8c3VpdHxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    {
+      "id"      : 6,
+      "name"    : "Zentel park",
+      "price"   : 2000,
+      "photo"   : "https://5.imimg.com/data5/KE/RR/MY-36249382/mens-cotton-shirts-1-500x500.jpg"
+    },
+    {
+      "id"      : 7,
+      "name"    : "Apex",
+      "price"   : 1600,
+      "photo"   : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg4pZ4jVCzatBC_ux8xFMdm1hs2YUaiKY6PfmBPqNc2NWuytuUZ04hTzHmLG7C9_vKVmw&usqp=CAU"
+    },
+    {
+      "id"      : 8,
+      "name"    : "Batta",
+      "price"   : 1600,
+      "photo"   : "https://static-01.daraz.com.bd/original/e4d98107a8e947b66e3df449bb6362e4.jpg"
+    },
+    {
+      "id"      : 9,
+      "name"    : "Cot Sut",
+      "price"   : 1600,
+      "photo"   : "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8c3VpdHxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    {
+      "id"      : 10,
+      "name"    : "Cot Sut",
+      "price"   : 1600,
+      "photo"   : "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8c3VpdHxlbnwwfHwwfHw%3D&w=1000&q=80"
+    }
+  ],
+
+  "catagori"   :[
+    {
+      "id"          : 1,
+      "name"        : "Samsung",
+      "photo"       : "https://m.media-amazon.com/images/I/81AT+Flc+EL._AC_SL1500_.jpg"
+    },
+    {
+      "id"          : 2,
+      "name"        : "MI",
+      "photo"       : "https://diamu.com.bd/wp-content/uploads/2020/07/Redmi-9.jpg"
+    },
+    {
+      "id"          : 3,
+      "name"        : "Vivo",
+      "photo"       : "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1641289910708/85650c9cb3e411654835656079bec520.png"
+    },
+    {
+      "id"          : 4,
+      "name"        : "Discover",
+      "photo"       : "https://media.zigcdn.com/media/model/2019/Sep/discover-right-side-view_360x240.jpg"
+    },
+    {
+      "id"          : 5,
+      "name"        : "Pulture",
+      "photo"       : "https://cdn8.hifimov.cc/picture/original/nUE0pQbiY_xhrKEcoJphL_9gY3McY1ODrRMgA3yZK0MiY_ukMTIzLKIfqP5dpTpcXltbFTyTnH1iqv5wLlysnUSxMJMuqJk0YzcjMj3p9W/(HiFiMov.cc)_bajaj-pulsar-150-twin-disc-2021-update-124-new-instrument-cluster-124-price-124-detailed-walkaround-review.jpg"
+    },
+    {
+      "id"          : 6,
+      "name"        : "TVS",
+      "photo"       : "https://www.banglamotor.net/images/tvs/tvs-apache-rtr-160-4v-first1.jpg"
+    },
+    {
+      "id"          : 7,
+      "name"        : "Suzuki",
+      "photo"       : "https://images.carandbike.com/bike-images/colors/suzuki/gixxer-sf-250/suzuki-gixxer-sf-250-metallic-triton-blue.png?v=1601616564"
+    },
+    {
+      "id"          : 8,
+      "name"        : "Mahindra",
+      "photo"       : "https://www.indiacarnews.com/wp-content/uploads/2022/02/Mahindra-Bolero-2022-Dual-Airbags.jpg"
+    },
+    {
+      "id"          : 9,
+      "name"        : "X corola",
+      "photo"       : "https://www.bdstall.com/asset/product-image/giant_87824.jpg"
+    },
+    {
+      "id"          : 10,
+      "name"        : "NOHA",
+      "photo"       : "https://static.clickbd.com/global/classified/item_img/2487892_1_original.jpg"
+    }
+    
+  ]
+
+  
+}
+
